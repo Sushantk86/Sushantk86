@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sushantk86, pursuing MS in Industrial Engineering with Data Science specialization. I will be graduating in May,2023. I am on the learning path to become a Data Scientist. 
+- 👋 Hi, I’m @Sushantk86, pursuing MS in Industrial Engineering from Texas A&M University, College Station with Data Science specialization. I will be graduating in May,2023. I am on the learning path to become a Data Scientist. 
 - 👀 I’m interested in Data Science, Machine Learning models, hypothesis testing and using data to bring hidden insights for revenue generation. 
 - 🌱 I’m currently mastering the machine learning algorithms Lasso, Rdige Regression for feature selection 
 - 💞️ I’m looking to collaborate on Machine Learning models used for computer vision 
